@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alaz
+- 👋 Hi, I’m Alaz
 - 👀 I’m interested in design and code
 - 🌱 I’m learning Web Development
 - 📫 You can use to reach me alazturkmen@gmail.com
